@@ -484,13 +484,13 @@ h1, h2, h3, h4, h5,
   margin-left: 15px;
   margin-right: 15px;
   padding: 20px 0px;
-  color: #000 !important;
+  color: #ffffff !important;
   display: inline-block;
   text-decoration: none !important; }
 .site-navbar .site-navigation .site-menu > li > a:hover {
-  color: #3b4eda; }
+  color: #fdf59a; }
 .site-navbar .site-navigation .site-menu > li.active > a {
-  color: #3b4eda !important; }
+  color: #fdf59a !important; }
 .site-navbar .site-navigation .site-menu .has-children {
   position: relative; }
 .site-navbar .site-navigation .site-menu .has-children > a {
