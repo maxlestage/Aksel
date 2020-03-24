@@ -1887,3 +1887,9 @@ h1, h2, h3, h4, h5,
 
 .links li {
   margin-bottom: 10px; }
+
+
+.text-primary {
+  color: #fdf59a!important;
+  text-shadow: -3px 5px 3px black;
+}
