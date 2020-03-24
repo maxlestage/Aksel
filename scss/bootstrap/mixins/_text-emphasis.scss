@@ -4,7 +4,7 @@
 
 .text-primary {
   color: #fdf59a!important;
-  text-shadow: -3px 5px 3px black;
+  text-shadow: -3px 5px 3px #00000061
 }
 
 
@@ -12,7 +12,7 @@
 @mixin text-emphasis-variant  {
   .text-primary  {
       color: #fdf59a !important;
-      text-shadow: -3px 2px 6px black;
+      text-shadow: -3px 5px 3px #00000061
     }
 }
 
