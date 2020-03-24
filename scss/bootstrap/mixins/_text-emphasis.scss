@@ -3,7 +3,7 @@
 // Typography
 
 .text-primary {
-  color: #fdf59a!important;
+  color: #ffed39 !important
   text-shadow: -3px 5px 3px #00000061
 }
 
@@ -11,7 +11,7 @@
 
 @mixin text-emphasis-variant  {
   .text-primary  {
-      color: #fdf59a !important;
+      color: #ffed39 !important
       text-shadow: -3px 5px 3px #00000061
     }
 }
